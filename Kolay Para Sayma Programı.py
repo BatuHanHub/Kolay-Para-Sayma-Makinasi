@@ -1,3 +1,10 @@
+#YAZAR: Batuhan Uysalar
+
+#Hatalar
+def hata1():
+    print('HATA:Lütfen pozitif sayı yazınız. "1,2,3..."')
+
+      
 print ( """
    _____ _____  _        ____         ___  
   / ____|  __ \| |      |___ \       / _ \ 
@@ -14,10 +21,6 @@ Bu ücretsiz bir yazılımdır; değiştirmekte ve yeniden dağıtmakta özgürs
 Yasaların izin verdiği ölçüde HİÇBİR GARANTİ YOKTUR.\n""" )
 
 print("Kolay Para Sayma Programına Hoşgeldiniz!\n")
-
-def hata1():
-    print('HATA:Lütfen pozitif sayı yazınız. "1,2,3..."')
-
 
 while True:
 
